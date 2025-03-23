@@ -1,0 +1,32 @@
+#mainBox {
+    background: linear-gradient(135deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
+    height: 500px;
+    width: 700px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    text-align: center;
+    margin-left: 30%;
+    margin-top: 10%;
+}
+
+#mainText {
+    text-align: center;
+    padding-top: 5%;
+    color: rgb(53, 50, 50);
+}
+
+#randJoke {
+    padding-top: 20%;
+    font-size: 30px;
+    color: white;
+}
+
+#button {
+    height: 70px;
+    width: 200px;
+    font-size: 30px;
+    background-color: rgb(76, 76, 118);
+    color: white;
+    border-radius: 15px;
+    margin-top: 7%;
+}
